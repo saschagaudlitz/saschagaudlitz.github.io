@@ -35,5 +35,7 @@ google fonds: false
 # Build settings
 markdown: kramdown
 
+advertise:           true
+
 # Make sure to exclude 'vendor' from the build
 exclude: [vendor, "Gemfile", "Gemfile.lock"]
