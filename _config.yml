@@ -29,7 +29,7 @@ menu:
 
 # Sidebar image and theme color of the site.
 accent_color:          rgb(0,250,0)
-accent_image:          '/assets/sidebar-bg.JPG'
+accent_image:          '/assets/img/Zurich.JPG'
 #accent_color:          rgb(79,177,186)
 
 google fonds: false
