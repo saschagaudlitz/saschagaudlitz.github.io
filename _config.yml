@@ -39,3 +39,7 @@ advertise:           true
 
 # Make sure to exclude 'vendor' from the build
 exclude: [vendor, "Gemfile", "Gemfile.lock"]
+
+include:
+  - .well-known
+  - LICENSE.md
