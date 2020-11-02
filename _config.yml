@@ -35,6 +35,8 @@ google fonds: false
 # Build settings
 markdown: kramdown
 
+copyright:             © 2020. All rights reserved.
+
 advertise:           true
 
 # Make sure to exclude 'vendor' from the build
