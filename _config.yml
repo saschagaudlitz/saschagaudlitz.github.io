@@ -29,7 +29,7 @@ menu:
 
 # Sidebar image and theme color of the site.
 accent_color:          rgb(102, 102, 255)
-accent_image:          '/assets/img/Matterhorn.jpg'
+accent_image:          '/assets/img/Matterhorn.JPG'
 
 google fonds: false
 # Build settings
