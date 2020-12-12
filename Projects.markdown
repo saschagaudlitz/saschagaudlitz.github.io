@@ -4,6 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-Here are the abstracts for my bachelor and my master thesis. Full versions are available upon request.
-+ [Bachelor thesis](/assets/docs/BSc_Abstract.pdf) on stochastic optimal control in a financial liquidation problem.
-+ [Master thesis](/assets/docs/MSc_Abstract.pdf) on statistical inference for linear SPDEs.
+Here you can find the abstracts of my bachelor and my master thesis. Full versions are available upon request.
++ [Bachelor thesis](/assets/docs/BSc_Abstract.pdf) "Stochastic optimal control: Strategies for illiquid
+financial markets".
++ [Master thesis](/assets/docs/MSc_Abstract.pdf) "Statistical inference for stochastic partial
+differential equations: Localized estimation of the diffusivity and the source".
+
+I am also interested in the numerical simulations of semilinear SPDEs in order to visualize their (statistical) properties. Soon, I will post the [Julia Code](https://julialang.org/) that implement the semi-implicit Euler-Maruyama scheme from the very nice book "An Introduction to Computational
+Stochastic PDEs" by Catherine E. Powell, Gabriel J. Lord, and Tony Shardlow (Cambridge University Press, 2014).
