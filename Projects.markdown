@@ -10,5 +10,7 @@ financial markets".
 + [Master thesis](/assets/docs/MSc_Abstract.pdf) "Statistical inference for stochastic partial
 differential equations: Localized estimation of the diffusivity and the source".
 
-I am also interested in the numerical simulations of semilinear SPDEs in order to visualize their (statistical) properties. Soon, I will post the [Julia Code](https://julialang.org/) that implement the semi-implicit Euler-Maruyama scheme from the very nice book "An Introduction to Computational
-Stochastic PDEs" by Catherine E. Powell, Gabriel J. Lord, and Tony Shardlow (Cambridge University Press, 2014).
+I am also interested in the numerical simulations of semilinear SPDEs in order to visualize their (statistical) properties. Soon, I will post the [Julia Code](https://julialang.org/) that implements the semi-implicit Euler-Maruyama scheme from the very nice book "An Introduction to Computational
+Stochastic PDEs" by Catherine E. Powell, Gabriel J. Lord, and Tony Shardlow (Cambridge University Press, 2014) for the SPDE
+$$\operatorname{d}X_t = AX_t\, \operatorname{d}t + \operatorname{d}W_t, \quad Az = \frac{\operatorname{d}}{\operatorname{d}x}\left(\theta(x)\frac{\operatorname{d}}{\operatorname{d}x}z(x)\right) + a(x)\frac{\operatorname{d}}{\operatorname{d}x}z(x)+F(z)$$
+on the (spatial) domain $$(0,1)$$ with Dirichlet boundary conditions.
