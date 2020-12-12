@@ -17,6 +17,6 @@ Outside of academics I enjoy playing badminton, representing [SG EBT Berlin](htt
 
 ## Contents:
 
-Recent academic [projects](#projects) that I'm passionate about.
+Recent academic [projects](/projects/) that I'm passionate about.
 
-A [short CV](#shortcv).
+A [short CV](/shortcv/).
