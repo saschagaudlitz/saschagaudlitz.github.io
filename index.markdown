@@ -15,7 +15,7 @@ I'm a PhD Student in the [Berlin-Oxford IRTG 2544 "Stochastic Analysis in Intera
 
 Outside of academics I enjoy playing badminton, representing [SG EBT Berlin](https://ebt-badminton.de/wordpress/) competitively.
 
-##Contents:
+## Contents:
 
 Recent academic [projects](#projects) that I'm passionate about.
 
