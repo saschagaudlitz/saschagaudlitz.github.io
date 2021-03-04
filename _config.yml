@@ -8,10 +8,10 @@
 # Site settings
 title: Sascha Gaudlitz
 #email: sascha.gaudlitz@hu-berlin.de
-author:
-  social:
-    email: mailto:sascha.gaudlitz@hu-berlin.de
-    
+#author:
+#  social:
+#    email: mailto:sascha.gaudlitz@hu-berlin.de
+
 description: > # this means to ignore newlines until "baseurl:"
   Sascha Gaudlitz is a PhD student in Mathematical Statistics at Humboldt University Berlin. He is part of the Berlin-Oxford IRTG
   "Stochastic Analysis in Interaction" and is supervised by Markus Reiß.
