@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Preprints
 
-+ [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://arxiv.org/abs/2203.10527), *arXiv preprint arxiv.org/abs/2203.10527*  (with Markus Reiß)
++ [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://arxiv.org/abs/2203.10527) *arXiv preprint arxiv.org/abs/2203.10527*  (with Markus Reiß)
 
 ## Theses
 
