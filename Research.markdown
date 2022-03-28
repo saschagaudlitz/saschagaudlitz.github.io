@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications, Preprints and Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 ---
 
 ## Preprints
@@ -19,10 +19,11 @@ differential equations: Localized estimation of the diffusivity and the source".
 
 ## Projects
 
-
+<!--
 I am also interested in the numerical simulations of semilinear SPDEs in order to visualize their (statistical) properties. Soon, I will post the [Julia Code](https://julialang.org/) that implements the semi-implicit Euler-Maruyama scheme from the very nice book "An Introduction to Computational
 Stochastic PDEs" by Catherine E. Powell, Gabriel J. Lord, and Tony Shardlow (Cambridge University Press, 2014) for the SPDE
 
 $$\operatorname{d}X_t = (AX_t + F(X_t))\, \operatorname{d}t + \operatorname{d}W_t, \quad (Az)(x) = \frac{\operatorname{d}}{\operatorname{d}x}\left(\vartheta(x)\frac{\operatorname{d}}{\operatorname{d}x}z(x)\right) + a(x)\frac{\operatorname{d}}{\operatorname{d}x}z(x) + b(x)z(x)$$
 
 on the (spatial) domain $$(0,1)$$ with Dirichlet boundary conditions with space-time white noise $$\operatorname{d} W_t$$.
+-->
