@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Theses
 
-Here you can find the abstracts of my bachelor and my master thesis. Full versions are available upon request.
+Here you can find the abstracts of my bachelor and master theses. Full versions are available upon request.
 + [Bachelor thesis](/assets/docs/BSc_Abstract.pdf) "Stochastic optimal control: Strategies for illiquid
 financial markets".
 + [Master thesis](/assets/docs/MSc_Abstract.pdf) "Statistical inference for stochastic partial
