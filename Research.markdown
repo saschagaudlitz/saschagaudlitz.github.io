@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Preprints
 
-* [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://arxiv.org/abs/2203.10527), *arXiv preprint arxiv.org/abs/2203.10527*  (with Markus Reiß)
++ [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://arxiv.org/abs/2203.10527), *arXiv preprint arxiv.org/abs/2203.10527*  (with Markus Reiß)
 
 ## Theses
 
@@ -17,9 +17,10 @@ financial markets".
 differential equations: Localized estimation of the diffusivity and the source".
 
 
-## Projects
+
 
 <!--
+## Projects
 I am also interested in the numerical simulations of semilinear SPDEs in order to visualize their (statistical) properties. Soon, I will post the [Julia Code](https://julialang.org/) that implements the semi-implicit Euler-Maruyama scheme from the very nice book "An Introduction to Computational
 Stochastic PDEs" by Catherine E. Powell, Gabriel J. Lord, and Tony Shardlow (Cambridge University Press, 2014) for the SPDE
 
