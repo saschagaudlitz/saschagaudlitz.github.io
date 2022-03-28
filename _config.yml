@@ -25,8 +25,8 @@ tagline: PhD Student
 logo:                  /assets/logo.JPG
 
 menu:
-  - title:             Projects
-    url:               /projects/
+  - title:             Research
+    url:               /research/
   - title:             Short CV
     url:               /shortcv/
 
