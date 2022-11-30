@@ -7,10 +7,11 @@ permalink: /shortcv/
 
 | Date | Status | Institution |
 |----------|:-------------:|:------:|
-| 2020 - present | PhD Student | Humboldt University Berlin |
-| 2018 - 2020 | M.Sc. Mathematics | Humboldt University Berlin |
+| 2020 - present | PhD Student | Humboldt Universität zu Berlin |
+| 2022 - 2023 | Recognised Student | University of Oxford |
+| 2018 - 2020 | M.Sc. Mathematics | umboldt Universität zu Berlin |
 | 2019/20 | Exchange Student | ETH Zurich |
-| 2014 - 2018 | B.Sc. Mathematics | Humboldt University Berlin |
+| 2014 - 2018 | B.Sc. Mathematics | umboldt Universität zu Berlin |
 | 2017 | Exchange Student | University of Melbourne |
 | 2016 | Exchange Student | University of Edinburgh |
 | 2013 | Abitur | Heinrich-Hertz Gymnasium Berlin |
