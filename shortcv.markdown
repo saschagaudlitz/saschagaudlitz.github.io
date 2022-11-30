@@ -23,7 +23,7 @@ permalink: /shortcv/
 |----------|:-------------:|:------:|:------:|
 | 2020 | Intern | zeb consulting | Berlin |
 | 2019 | Intern | DWS | Frankfurt (Main) |
-| 2018 | Student TA | Humboldt University | Berlin |
+| 2018 | Student TA | Humboldt Universität zu Berlin | Berlin |
 | 2015 - 2018 | Mentoring | Self-employed | Berlin |
 | 2017 | Intern | Deutsche Bank Quant Institute | Berlin |
 | 2016 | Intern | KPMG | Hannover |
