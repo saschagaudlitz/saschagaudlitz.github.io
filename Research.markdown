@@ -7,7 +7,7 @@ permalink: /research/
 ## Preprints
 
 + [Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity](https://arxiv.org/abs/2307.05457) *arXiv:2307.05457*
-+ [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/56044?confirm=922c4f37) *Bernoulli 2023*, Vol. 29, No. 4, 3033-3058  (with Markus Reiß)
++ [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://projecteuclid.org/journals/bernoulli/volume-29/issue-4/Estimation-for-the-reaction-term-in-semi-linear-SPDEs-under/10.3150/22-BEJ1573.full) *Bernoulli 2023*, Vol. 29, No. 4, 3033-3058  (with Markus Reiß)
 
 ## Theses
 
