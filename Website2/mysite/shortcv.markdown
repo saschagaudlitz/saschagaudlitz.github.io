@@ -1,0 +1,28 @@
+---
+layout: page
+title: Short CV
+permalink: /shortcv/
+---
+## Academics
+
+| Date | Status | Institution |
+|----------|:-------------:|:------:|
+| 2020 - present | PhD Student | Humboldt University |
+| 2018 - 2020 | M.Sc. Mathematics | Humboldt University Berlin |
+| 2019/20 | Exchange Student | ETH Zurich |
+| 2014 - 2018 | B.Sc. Mathematics | Humboldt University |
+| 2017 | Exchange Student | University of Melbourne |
+| 2016 | Exchange Student | University of Edinburgh |
+| 2013 | Abitur | Heinrich-Hertz Gymnasium Berlin |
+
+
+## Work Experience
+
+| Date | Status | Company |
+|----------|:-------------:|:------:|
+| 2020 | Intern | zeb consulting |
+| 2019 | Intern | DWS |
+| 2018 | Student TA | Humboldt University |
+| 2015 - 2018 | Mentoring | Self-employed |
+| 2017 | Intern | Deutsche Bank Quant Institute |
+| 2016 | Intern | KPMG |
