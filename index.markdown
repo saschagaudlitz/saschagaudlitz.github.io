@@ -15,6 +15,8 @@ I'm a postdoc in the collaborative research center ["Rough Analysis, Stochastic 
 
 I am regularly organising reading group on various topics in mathematical statistics and machine learning. Get in touch if you want to join!
 
+I also co-organise the [HU Mathematical Statistics Group seminar](https://amor.cms.hu-berlin.de/~gaudlisa/seminar.html).
+
 Outside of academics I enjoy playing badminton, representing [SG EBT Berlin](https://ebt-badminton.de/wordpress/) competitively.
 
 ## Contents:
