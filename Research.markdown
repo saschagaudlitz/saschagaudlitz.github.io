@@ -20,7 +20,7 @@ differential equations: Localized estimation of the diffusivity and the source".
 
 ## Miscellaneous
 
-Together with two colleagues from HU Berlin I participated in the hackathon ["GenHack 2"](https://www.polytechnique.edu/en/education/academic-and-research-departments/applied-mathematics-department-depmap/student-event/genhack-2-hackathon-generative-modelling) on generative modeling of sea surface temperature. Using a combination of normalising flows and Gaussian process regression, we placed first in one of two categories. Our methodology is described [here](https://medium.com/@starokon/generative-modelling-of-sea-surface-temperature-with-normalizing-flows-cdafa3d90b56) and the code is available [here](https://github.com/saschagaudlitz/Flash).
+Together with two colleagues from HU Berlin I participated in the hackathon ["GenHack 2"](https://www.polytechnique.edu/en/education/academic-and-research-departments/applied-mathematics-department-depmap/student-event/genhack-2-hackathon-generative-modelling) on generative modeling of sea surface temperature. Using a combination of normalising flows and Gaussian process regression, we placed first in one of two categories. Our methodology is described [here](https://medium.com/@starokon/generative-modelling-of-sea-surface-temperature-with-normalizing-flows-cdafa3d90b56), and the code is available [here](https://github.com/saschagaudlitz/Flash).
 
 
 <!--

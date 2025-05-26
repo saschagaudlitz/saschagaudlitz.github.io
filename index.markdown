@@ -8,19 +8,22 @@ title: Sascha Gaudlitz
 
 
 
-I'm a postdoc in the collaborative research center ["Rough Analysis, Stochastic Dynamics and Related Fields"](https://sites.google.com/view/trr388/), working by Markus Reiß. My research interests include mathematical statistics and stochastic analysis, in particular I'm focused on
+I am a postdoctoral researcher at the collaborative research centre ["Rough Analysis, Stochastic Dynamics and Related Fields"](https://sites.google.com/view/trr388/), working with Markus Reiß. My research spans mathematical statistics and stochastic analysis, with particular focus on:
 + Statistical inference for stochastic partial differential equations (SPDEs),
 + Biologically inspired machine learning
 + Score-based generative modelling
 
-I am regularly organising reading group on various topics in mathematical statistics and machine learning. Get in touch if you want to join!
+I co-organise the [HU Mathematical Statistics Group seminar](https://amor.cms.hu-berlin.de/~gaudlisa/seminar.html).
 
-I also co-organise the [HU Mathematical Statistics Group seminar](https://amor.cms.hu-berlin.de/~gaudlisa/seminar.html).
+For those interested in the dynamic behaviour of SPDEs, I recommend these visual resources (note: file sizes exceed 50 MB):
+* [SPDE Gallery 1](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss/publications/spdegallery1.pdf)
+* [SPDE Gallery 2](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss/publications/spdegallery2.pdf)
 
-Outside of academics I enjoy playing badminton, representing [SG EBT Berlin](https://ebt-badminton.de/wordpress/) competitively.
+
+Beyond academia, I am an active badminton player, representing [SG EBT Berlin](https://ebt-badminton.de/wordpress/).
 
 ## Contents:
 
-Recent [academic projects](/research/) that I'm passionate about.
+Explore my [academic projects and publications](/research/).
 
 A [short CV](/shortcv/).
