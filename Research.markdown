@@ -4,13 +4,20 @@ title: Research
 permalink: /research/
 ---
 
+
 ## Preprints
 
 
 + [Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations](https://arxiv.org/abs/2507.06857) *arXiv:2507.06857* (with Randolf Altmeyer)
-+ [Spike-timing-dependent Hebbian learning as noisy gradient descent](https://arxiv.org/abs/2505.10272) *arXiv:2505.10272* (with Niklas Dexheimer and Johannes Schmidt-Hieber) [Simulation code](https://github.com/saschagaudlitz/HebbianSTDP)
+
 + [Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity](https://arxiv.org/abs/2307.05457) *arXiv:2307.05457*
+
+
+## Publications
+
++ [Spike-timing-dependent Hebbian learning as noisy gradient descent](https://arxiv.org/abs/2505.10272) *arXiv:2505.10272, to appear in Neurips 2025* (with Niklas Dexheimer and Johannes Schmidt-Hieber) [Simulation code](https://github.com/saschagaudlitz/HebbianSTDP)
 + [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://projecteuclid.org/journals/bernoulli/volume-29/issue-4/Estimation-for-the-reaction-term-in-semi-linear-SPDEs-under/10.3150/22-BEJ1573.full) *Bernoulli 2023*, Vol. 29, No. 4, 3033-3058  (with Markus Reiß)
+
 
 ## Theses
 
