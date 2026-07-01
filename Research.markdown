@@ -7,6 +7,7 @@ permalink: /research/
 
 ## Preprints
 
++ [Parameter estimation in a fully coupled partially observed Ornstein-Uhlenbeck process](https://arxiv.org/abs/2606.30443) *arXiv:2606.30443* (with Hasan Mert Gökalp)
 
 + [Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations](https://arxiv.org/abs/2507.06857) *arXiv:2507.06857* (with Randolf Altmeyer)
 
