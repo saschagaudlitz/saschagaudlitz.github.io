@@ -15,7 +15,7 @@ permalink: /research/
 
 
 ## Publications
-+ [Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity](https://arxiv.org/abs/2307.05457) *arXiv:2307.05457, to appear in SPA*
++ [Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity](https://www.sciencedirect.com/science/article/pii/S0304414926001845) *Stochastic Processes and their Applications 2026*, Vol. 201, 105052
 + [Spike-timing-dependent Hebbian learning as noisy gradient descent](https://neurips.cc/virtual/2025/loc/san-diego/poster/117420) *Neurips 2025* (with Niklas Dexheimer and Johannes Schmidt-Hieber) [Simulation code](https://github.com/saschagaudlitz/HebbianSTDP)
 + [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://projecteuclid.org/journals/bernoulli/volume-29/issue-4/Estimation-for-the-reaction-term-in-semi-linear-SPDEs-under/10.3150/22-BEJ1573.full) *Bernoulli 2023*, Vol. 29, No. 4, 3033-3058  (with Markus Reiß)
 
