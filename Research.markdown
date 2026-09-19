@@ -19,7 +19,7 @@ permalink: /research/
 + [Spike-timing-dependent Hebbian learning as noisy gradient descent](https://neurips.cc/virtual/2025/loc/san-diego/poster/117420) *Neurips 2025* (with Niklas Dexheimer and Johannes Schmidt-Hieber) [Simulation code](https://github.com/saschagaudlitz/HebbianSTDP)
 + [Estimation for the reaction term in semi-linear SPDEs under small diffusivity](https://projecteuclid.org/journals/bernoulli/volume-29/issue-4/Estimation-for-the-reaction-term-in-semi-linear-SPDEs-under/10.3150/22-BEJ1573.full) *Bernoulli 2023*, Vol. 29, No. 4, 3033-3058  (with Markus Reiß)
 
-
+<!--
 ## Theses
 
 Here you can find the abstracts of my bachelor and master theses. Full versions are available upon request.
@@ -27,7 +27,7 @@ Here you can find the abstracts of my bachelor and master theses. Full versions 
 financial markets".
 + [Master thesis](/assets/docs/MSc_Abstract.pdf) "Statistical inference for stochastic partial
 differential equations: Localized estimation of the diffusivity and the source".
-
+-->
 
 
 
