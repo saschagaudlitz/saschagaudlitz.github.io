@@ -13,7 +13,7 @@ email: sascha.gaudlitz[AT]hu-berlin.de
 #    email: mailto:sascha.gaudlitz@hu-berlin.de
 
 description: > # this means to ignore newlines until "baseurl:"
-  Sascha Gaudlitz is a postdoc in Mathematical Statistics at Humboldt University Berlin, working with Markus Reiß.
+  Sascha Gaudlitz is a postdoc in Mathematical Statistics at Humboldt University Berlin.
 #baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 #url: ""
 #theme : jekyll-theme-hydejack
@@ -26,6 +26,8 @@ logo:                  /assets/logo.JPG
 menu:
   - title:             Research
     url:               /research/
+  - title:             Teaching
+    url:               /teaching/
   - title:             Short CV
     url:               /shortcv/
 

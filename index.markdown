@@ -27,6 +27,6 @@ Beyond academia, I am an active badminton player, representing [SG EBT Berlin](h
 
 ## Contents:
 
-Explore my [academic projects and publications](/research/).
+Explore my [academic projects and publications](/research/) and [teaching](/teaching/).
 
 A [short CV](/shortcv/).
